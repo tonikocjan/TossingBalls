@@ -1,0 +1,32 @@
+@charset utf-8;
+
+body {margin-left: 30px;}
+
+h1 {
+    font-family: 'Droid Serif', Georgia, Times, serif;
+    font-size: 40px;
+    line-height: 65px;
+	margin-bottom: 0;
+}
+
+li {
+	font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 25px;
+	margin: 5px;
+	font-weight: bold;
+}
+
+hr {
+	width: 80%;
+	margin-left: 5px;
+}
+
+i {
+	font-weight: normal;
+	margin-right: 3px;
+}
+
+error {
+	color: red;
+}
